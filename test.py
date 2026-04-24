@@ -1,10 +1,4 @@
-"""
-Project: SIH 2025 Grand Finale - AI Diagnostic Tool
-Author: Sairaj Maroti Kageru
-Roll Number: EN23107053 (TY-A)
-Hardware Target: RTX 3050 (4GB VRAM)
-Feature: Heatmap Confidence Debugger
-"""
+
 
 import os
 import cv2
